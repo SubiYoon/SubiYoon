@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20World&fontSize=90)
 
 
-# 윤동섭으 포트폴리오 (SubiYoon)
+# 윤동섭의 포트폴리오 (SubiYoon)
 ### 🧑🏼‍💻Backend Engineer, Web Developer
 #### <a href='https://www.notion.so/yoonnyou/eb4cb5c2785e48ac994bcd20c4c139ea?v=0873d3cbf7b94fb180a0584293cc5eea'>📚Study(2022.08 ~)Click!!</a>
 #### 😃계속 공부중입니다.😃
