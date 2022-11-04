@@ -51,10 +51,10 @@
 
 ## 📖Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubiYoon)](https://github.com/SubiYoon/github-readme-stats)<br>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubiYoon)](https://github.com/SubiYoon/github-readme-stats)<br>-->
 
 <!--현재 커밋상황-->
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=SubiYoon)](https://github.com/SubiYoon)
+<!--[![*'s github stats](https://github-readme-stats.vercel.app/api?username=SubiYoon)](https://github.com/SubiYoon)-->
 
 <!--가능한 스킬 보여주는 java아이콘-->
-<!--![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)-->
+![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
