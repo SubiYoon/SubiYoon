@@ -28,11 +28,11 @@
 <!--📞  010-3916-4937-->
 
 <br><br>
-
+<!--
 ## 📝 Blog
 
 [📚ABC부터 개발자까지](https://www.notion.so/yoonnyou/Study-309df33ef2e845cab9589ad3925ad1b9)
-
+-->
 <br><br>
 
 ## 📑 Certificate
