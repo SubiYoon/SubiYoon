@@ -57,4 +57,8 @@
 <!--[![*'s github stats](https://github-readme-stats.vercel.app/api?username=SubiYoon)](https://github.com/SubiYoon)-->
 
 <!--가능한 스킬 보여주는 java아이콘-->
-![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
+![자바](https://img.shields.io/badge/Lang-Java-red)<br/>
+![스프링](https://img.shields.io/badge/FW-Spring-success)<br/>
+![툴](https://img.shields.io/badge/Tool-VSCode-blue)
+![툴](https://img.shields.io/badge/Tool-Eclipse-blue)<br/>
+![DB](https://img.shields.io/badge/DB-Oracle-blueviolet)
