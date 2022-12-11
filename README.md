@@ -62,7 +62,7 @@
 ![백](https://img.shields.io/badge/Back-Jsp-red)
 ![백](https://img.shields.io/badge/Back-Servlet-red)
 <br/>
-![프론트](https://img.shields.io/badge/Front-JS-success)
+![프론트](https://img.shields.io/badge/Front-JavaScript-success)
 ![프론트](https://img.shields.io/badge/Front-Jquery-success)
 ![프론트](https://img.shields.io/badge/Front-CSS-success)
 <br/>
