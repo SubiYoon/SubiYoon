@@ -1,6 +1,6 @@
 ---
 <div align="center">
-  <a href='https://yoonnyou.notion.site/a7b07fca67da4327b00f1448d645de59'>🧑🏼‍💻 Who Am I??</a><br>
+  <a href='https://yoonnyou.notion.site/a7b07fca67da4327b00f1448d645de59'>🧑🏼‍💻 Who Am I?? Click!!</a><br>
   
 🧑🏼‍💻Backend Engineer, Web Developer<br>
   
