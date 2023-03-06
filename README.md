@@ -29,6 +29,7 @@
   ![백](https://img.shields.io/badge/Back-SpringBoot-red)
   ![백](https://img.shields.io/badge/Back-Jsp-red)
   <br/>
+    ![프론트](https://img.shields.io/badge/Front-HTML-success)
   ![프론트](https://img.shields.io/badge/Front-JavaScript-success)
   ![프론트](https://img.shields.io/badge/Front-Jquery-success)
   ![프론트](https://img.shields.io/badge/Front-CSS-success)
