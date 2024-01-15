@@ -31,13 +31,13 @@
   <br/>
   ![프론트](https://img.shields.io/badge/Front-HTML-success)
   ![프론트](https://img.shields.io/badge/Front-JavaScript-success)
+  ![프론트](https://img.shields.io/badge/Front-Vue.js-success)
   ![프론트](https://img.shields.io/badge/Front-Jquery-success)
-  ![프론트](https://img.shields.io/badge/Front-CSS-success)
-  ![프론트](https://img.shields.io/badge/Front-Ajax-success)
   ![프론트](https://img.shields.io/badge/Front-Thymeleaf-success)
   <br/>
   ![툴](https://img.shields.io/badge/Tool-VSCode-blue)
   ![툴](https://img.shields.io/badge/Tool-Eclipse-blue)
+  ![툴](https://img.shields.io/badge/Tool-IntelliJ-blue)
   <br/>
   ![DB](https://img.shields.io/badge/DB-Oracle-blueviolet)
   ![DB](https://img.shields.io/badge/DB-MySQL-blueviolet)
