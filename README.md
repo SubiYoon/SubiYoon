@@ -1,10 +1,10 @@
 ---
 <div align="center">
-  <a href='https://yoonnyou.notion.site/a7b07fca67da4327b00f1448d645de59'>🧑🏼‍💻 Who Am I?? Click!!</a><br>
+  <a href='https://abctodev.notion.site/a7b07fca67da4327b00f1448d645de59?pvs=4'>🧑🏼‍💻 Who Am I?? Click!!</a><br>
   
 🧑🏼‍💻Backend Engineer, Web Developer<br>
   
-<a href='https://yoonnyou.notion.site/Study-309df33ef2e845cab9589ad3925ad1b9'>📚Study(2022.08 ~)Click!!</a><br>
+<a href='https://abctodev.notion.site/Study-309df33ef2e845cab9589ad3925ad1b9?pvs=4'>📚Study(2022.08 ~)Click!!</a><br>
 😃계속 공부중입니다.😃<br>
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=SubiYoon"/>
