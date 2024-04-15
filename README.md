@@ -25,19 +25,19 @@
   ## 📖Skills
   <!--가능한 스킬 보여주는 java아이콘-->
   ![백](https://img.shields.io/badge/Back-Java-red)
-  ![백](https://img.shields.io/badge/Back-Spring-red)
   ![백](https://img.shields.io/badge/Back-SpringBoot-red)
-  ![백](https://img.shields.io/badge/Back-Jsp-red)
   <br/>
-  ![프론트](https://img.shields.io/badge/Front-HTML-success)
-  ![프론트](https://img.shields.io/badge/Front-JavaScript-success)
-  ![프론트](https://img.shields.io/badge/Front-Vue.js-success)
-  ![프론트](https://img.shields.io/badge/Front-Jquery-success)
-  ![프론트](https://img.shields.io/badge/Front-Thymeleaf-success)
-  <br/>
-  ![툴](https://img.shields.io/badge/Tool-VSCode-blue)
-  ![툴](https://img.shields.io/badge/Tool-Eclipse-blue)
-  ![툴](https://img.shields.io/badge/Tool-IntelliJ-blue)
+  ![프론트](https://img.shields.io/badge/Front-HTML-blue)
+  ![프론트](https://img.shields.io/badge/Front-JavaScript-blue)
+  ![프론트](https://img.shields.io/badge/Front-Vue.js-blue)
   <br/>
   ![DB](https://img.shields.io/badge/DB-Oracle-blueviolet)
   ![DB](https://img.shields.io/badge/DB-MySQL-blueviolet)
+  ![DB](https://img.shields.io/badge/DB-PostgreSQL-blueviolet)
+  <br/>
+  ![툴](https://img.shields.io/badge/Tool-VSCode-success)
+  ![툴](https://img.shields.io/badge/Tool-Eclipse-success)
+  ![툴](https://img.shields.io/badge/Tool-IntelliJ-success)
+  <br/>
+  ![ETC](https://img.shields.io/badge/ETC-Linux-orange)
+  ![ETC](https://img.shields.io/badge/ETC-Vim-orange)
